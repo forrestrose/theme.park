@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <div class="custom-text-header">
         <pre>                     
 
-______             _       __                   
+  ______             _       __                   
  /_  __/_______  ___| |     / /___ _________  ____
   / / / ___/ _ \\/ _ \\ | /| / / __ \`/ ___/ _ \\/_  /
  / / / /  /  __/  __/ |/ |/ / /_/ / /  /  __/ / /_
