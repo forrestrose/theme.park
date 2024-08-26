@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let custom_text_header = `
     <div class="custom-text-header">
         <pre>                     
-                     __                             ___       __  
+
   ______              _____ __                  
  /_  __/_______  ___ / ___// /_  ____ _________ 
   / / / ___/ _ \\/ _ \\\\__ \\/ __ \\/ __ \`/ ___/ _ \\
